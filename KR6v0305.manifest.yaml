@@ -1,0 +1,2740 @@
+canonical_identifier: bkk:krp/KR6v0305/v1
+canonical_location: https://kanripo.org/bkk/KR6v0305/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 泰國大藏經小部經
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B06/B06n0006.xml
+    old_id: B06n0006
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0305_000.yaml, hash: 'sha256:7f45aefd1e95506cce38970b051e6e3f946ec809aa0f06a27e6567bcf0f42660'}
+  - {seq: 1, filename: KR6v0305_001.yaml, hash: 'sha256:991a8b21a14e1eeff8b1026d07b1a500a7ed85d4ca84852db77c77c039999d9f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0305_000.markers.yaml, hash: 'sha256:dc144a16fd997b028e19f72450cbd8b8a53daf6ca0246ddeaadd41442ea6fc0e'}
+  - {seq: 1, role: markers, filename: assets/KR6v0305_001.markers.yaml, hash: 'sha256:ab8d4346cc97193672cc7d0f33cd36ac804f13dfc642c3a5c8b0fa18387dcb2f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0305_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 73086
+  label: 泰國大藏經
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-1
+    span:
+    - body
+    - 5
+    - 5
+  label: 第一　小誦經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-2
+    span:
+    - body
+    - 28
+    - 28
+  label: 一、三歸依文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-3
+    span:
+    - body
+    - 75
+    - 75
+  label: 二、十戒文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-4
+    span:
+    - body
+    - 184
+    - 184
+  label: 三、三十一身分
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-5
+    span:
+    - body
+    - 244
+    - 244
+  label: 四、問沙彌文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-6
+    span:
+    - body
+    - 341
+    - 341
+  label: 五、吉祥經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-7
+    span:
+    - body
+    - 641
+    - 641
+  label: 六、三寶經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-8
+    span:
+    - body
+    - 1424
+    - 1424
+  label: 七、戶外經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-9
+    span:
+    - body
+    - 1756
+    - 1756
+  label: 八、伏藏經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-10
+    span:
+    - body
+    - 2195
+    - 2195
+  label: 九、慈悲經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-11
+    span:
+    - body
+    - 2476
+    - 2476
+  label: 第二　法句經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-12
+    span:
+    - body
+    - 2494
+    - 2494
+  label: 1 第一品　雙品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-13
+    span:
+    - body
+    - 3226
+    - 3226
+  label: 2 第二品　不放逸品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-14
+    span:
+    - body
+    - 3555
+    - 3555
+  label: 3 第三品　心品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-15
+    span:
+    - body
+    - 3849
+    - 3849
+  label: 4 第四品　花品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-16
+    span:
+    - body
+    - 4311
+    - 4311
+  label: 5 第五品　愚品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-17
+    span:
+    - body
+    - 4761
+    - 4761
+  label: 6 第六品　賢品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-18
+    span:
+    - body
+    - 5119
+    - 5119
+  label: 7 第七品　阿羅漢品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-19
+    span:
+    - body
+    - 5380
+    - 5380
+  label: 8 第八品　千品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-20
+    span:
+    - body
+    - 5780
+    - 5780
+  label: 9 第九品　惡品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-21
+    span:
+    - body
+    - 6130
+    - 6130
+  label: 10 第十品　刑害品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-22
+    span:
+    - body
+    - 6554
+    - 6554
+  label: 11 第十一品　老品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-23
+    span:
+    - body
+    - 6825
+    - 6825
+  label: 12 第十二品　自己品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-24
+    span:
+    - body
+    - 7164
+    - 7164
+  label: 13 第十三品　世間品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-25
+    span:
+    - body
+    - 7461
+    - 7461
+  label: 14 第十四品　佛陀品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-26
+    span:
+    - body
+    - 7922
+    - 7922
+  label: 15 第十五品　安樂品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-27
+    span:
+    - body
+    - 8216
+    - 8216
+  label: 16 第十六品　愛好品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-28
+    span:
+    - body
+    - 8589
+    - 8589
+  label: 17 第十七品　忿怒品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-29
+    span:
+    - body
+    - 8968
+    - 8968
+  label: 18 第十八品　垢穢品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-30
+    span:
+    - body
+    - 9576
+    - 9576
+  label: 19 第十九品　法住品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-31
+    span:
+    - body
+    - 10054
+    - 10054
+  label: 20 第二十品　道品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-32
+    span:
+    - body
+    - 10602
+    - 10602
+  label: 21 第二十一品　雜品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-33
+    span:
+    - body
+    - 11171
+    - 11171
+  label: 22 第二十二品　地獄品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-34
+    span:
+    - body
+    - 11506
+    - 11506
+  label: 23 第二十三品　象品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-35
+    span:
+    - body
+    - 12070
+    - 12070
+  label: 24 第二十四品　愛欲品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-36
+    span:
+    - body
+    - 13052
+    - 13052
+  label: 25 第二十五品　比丘品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-37
+    span:
+    - body
+    - 13748
+    - 13748
+  label: 26 第二十六品　婆羅門品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-38
+    span:
+    - body
+    - 14950
+    - 14950
+  label: 第三　自說經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-39
+    span:
+    - body
+    - 14965
+    - 14965
+  label: 1 第一品　菩提品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-40
+    span:
+    - body
+    - 14971
+    - 14971
+  label: 1 第一　菩提經一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-41
+    span:
+    - body
+    - 15148
+    - 15148
+  label: 2 第二　菩提經二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-42
+    span:
+    - body
+    - 15347
+    - 15347
+  label: 3 第三　菩提經三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-43
+    span:
+    - body
+    - 15612
+    - 15612
+  label: 4 第四　牧羊者尼拘律林經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-44
+    span:
+    - body
+    - 15797
+    - 15797
+  label: 5 第五　長老經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-45
+    span:
+    - body
+    - 15980
+    - 15980
+  label: 6 第六　大迦葉經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-46
+    span:
+    - body
+    - 16177
+    - 16177
+  label: 7 第七　波吒經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-47
+    span:
+    - body
+    - 16345
+    - 16345
+  label: 8 第八　戰勝經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-48
+    span:
+    - body
+    - 16638
+    - 16638
+  label: 9 第九　結髮經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-49
+    span:
+    - body
+    - 16809
+    - 16809
+  label: 10 第十　婆希經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-50
+    span:
+    - body
+    - 17812
+    - 17812
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-51
+    span:
+    - body
+    - 17874
+    - 17874
+  label: 2 第二品　目真隣陀品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-52
+    span:
+    - body
+    - 17882
+    - 17882
+  label: 1 第一　目真隣陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-53
+    span:
+    - body
+    - 18110
+    - 18110
+  label: 2 第二　王經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-54
+    span:
+    - body
+    - 18464
+    - 18464
+  label: 3 第三　刑害經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-55
+    span:
+    - body
+    - 18616
+    - 18616
+  label: 4 第四　供養經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-56
+    span:
+    - body
+    - 18974
+    - 18974
+  label: 5 第五　優婆塞經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-57
+    span:
+    - body
+    - 19132
+    - 19132
+  label: 6 第六　胎婦經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-58
+    span:
+    - body
+    - 19476
+    - 19476
+  label: 7 第七　一子經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-59
+    span:
+    - body
+    - 19708
+    - 19708
+  label: 8 第八　蘇波婆沙經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-60
+    span:
+    - body
+    - 21010
+    - 21010
+  label: 9 第九　毗舍佉經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-61
+    span:
+    - body
+    - 21189
+    - 21189
+  label: 10 第十　迦利瞿陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-62
+    span:
+    - body
+    - 21788
+    - 21788
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-63
+    span:
+    - body
+    - 21850
+    - 21850
+  label: 3 第三品　難陀品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-64
+    span:
+    - body
+    - 21856
+    - 21856
+  label: 1 第一　業經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-65
+    span:
+    - body
+    - 21994
+    - 21994
+  label: 2 第二　難陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-66
+    span:
+    - body
+    - 23054
+    - 23054
+  label: 3 第三　耶輸闍經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-67
+    span:
+    - body
+    - 24083
+    - 24083
+  label: 4 第四　舍利弗經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-68
+    span:
+    - body
+    - 24192
+    - 24192
+  label: 5 第五　拘律陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-69
+    span:
+    - body
+    - 24307
+    - 24307
+  label: 6 第六　畢陵迦經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-70
+    span:
+    - body
+    - 24656
+    - 24656
+  label: 7 第七　大迦葉經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-71
+    span:
+    - body
+    - 25090
+    - 25090
+  label: 8 第八　托鉢經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-72
+    span:
+    - body
+    - 25484
+    - 25484
+  label: 9 第九　技藝經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-73
+    span:
+    - body
+    - 25848
+    - 25848
+  label: 10 第十　世間經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-74
+    span:
+    - body
+    - 26215
+    - 26215
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-75
+    span:
+    - body
+    - 26274
+    - 26274
+  label: 4 第四品　彌醯品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-76
+    span:
+    - body
+    - 26280
+    - 26280
+  label: 1 第一　彌醯經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-77
+    span:
+    - body
+    - 27353
+    - 27353
+  label: 2 第二　憍慢經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-78
+    span:
+    - body
+    - 27551
+    - 27551
+  label: 3 第三　牧牛人經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-79
+    span:
+    - body
+    - 27929
+    - 27929
+  label: 4 第四　月明經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-80
+    span:
+    - body
+    - 28508
+    - 28508
+  label: 5 第五　象經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-81
+    span:
+    - body
+    - 29159
+    - 29159
+  label: 6 第六　賓頭盧經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-82
+    span:
+    - body
+    - 29309
+    - 29309
+  label: 8 第八　舍利弗經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-83
+    span:
+    - body
+    - 30291
+    - 30291
+  label: 9 第九　優婆先那婆檀提子經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-84
+    span:
+    - body
+    - 30480
+    - 30480
+  label: 10 第十　舍利弗經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-85
+    span:
+    - body
+    - 30600
+    - 30600
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-86
+    span:
+    - body
+    - 30665
+    - 30665
+  label: 5 第五品　蘇那長老品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-87
+    span:
+    - body
+    - 30673
+    - 30673
+  label: 1 第一　王經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-88
+    span:
+    - body
+    - 30978
+    - 30978
+  label: 2 第二　短命經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-89
+    span:
+    - body
+    - 31161
+    - 31161
+  label: 3 第三　癩病者經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-90
+    span:
+    - body
+    - 31957
+    - 31957
+  label: 4 第四　兒童經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-91
+    span:
+    - body
+    - 32128
+    - 32128
+  label: 5 第五　布薩經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-92
+    span:
+    - body
+    - 34161
+    - 34161
+  label: 6 第六　蘇那經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-93
+    span:
+    - body
+    - 35423
+    - 35423
+  label: 7 第七　離婆多經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-94
+    span:
+    - body
+    - 35562
+    - 35562
+  label: 8 第八　阿難經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-95
+    span:
+    - body
+    - 35804
+    - 35804
+  label: 9 第九　喧嘩經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-96
+    span:
+    - body
+    - 35896
+    - 35896
+  label: 10 第十　槃特經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-97
+    span:
+    - body
+    - 36029
+    - 36029
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-98
+    span:
+    - body
+    - 36088
+    - 36088
+  label: 6 第六品　生盲品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-99
+    span:
+    - body
+    - 36094
+    - 36094
+  label: 1 第一　捨壽經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-100
+    span:
+    - body
+    - 37270
+    - 37270
+  label: 2 第二　靜處獨坐經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-101
+    span:
+    - body
+    - 38040
+    - 38040
+  label: 3 第三　已說經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-102
+    span:
+    - body
+    - 38160
+    - 38160
+  label: 4 第四　傳聞經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-103
+    span:
+    - body
+    - 39229
+    - 39229
+  label: 5 第五　傳聞經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-104
+    span:
+    - body
+    - 39890
+    - 39890
+  label: 6 第六　外道經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-105
+    span:
+    - body
+    - 40386
+    - 40386
+  label: 7 第七　須菩提經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-106
+    span:
+    - body
+    - 40527
+    - 40527
+  label: 8 第八　婬婦經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-107
+    span:
+    - body
+    - 40820
+    - 40820
+  label: 9 第九　過度經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-108
+    span:
+    - body
+    - 40948
+    - 40948
+  label: 10 第十　出現經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-109
+    span:
+    - body
+    - 41238
+    - 41238
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-110
+    span:
+    - body
+    - 41301
+    - 41301
+  label: 7 第七品　小品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-111
+    span:
+    - body
+    - 41306
+    - 41306
+  label: 1 第一　跋提經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-112
+    span:
+    - body
+    - 41493
+    - 41493
+  label: 2 第二　跋提經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-113
+    span:
+    - body
+    - 41648
+    - 41648
+  label: 3 第三　欲經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-114
+    span:
+    - body
+    - 41815
+    - 41815
+  label: 4 第四　欲經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-115
+    span:
+    - body
+    - 41978
+    - 41978
+  label: 5 第五　跋提經之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-116
+    span:
+    - body
+    - 42208
+    - 42208
+  label: 6 第六　滅愛經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-117
+    span:
+    - body
+    - 42376
+    - 42376
+  label: 7 第七　滅妄想經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-118
+    span:
+    - body
+    - 42476
+    - 42476
+  label: 8 第八　大迦栴延經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-119
+    span:
+    - body
+    - 42636
+    - 42636
+  label: 9 第九　井經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-120
+    span:
+    - body
+    - 43083
+    - 43083
+  label: 10 第十　優填經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-121
+    span:
+    - body
+    - 43310
+    - 43310
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-122
+    span:
+    - body
+    - 43375
+    - 43375
+  label: 8 第八品　波吒離村人品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-123
+    span:
+    - body
+    - 43384
+    - 43384
+  label: 1 第一　涅槃經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-124
+    span:
+    - body
+    - 43544
+    - 43544
+  label: 2 第二　涅槃經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-125
+    span:
+    - body
+    - 43660
+    - 43660
+  label: 3 第三　涅槃經之三
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-126
+    span:
+    - body
+    - 43830
+    - 43830
+  label: 4 第四　涅槃經之四
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-127
+    span:
+    - body
+    - 43964
+    - 43964
+  label: 5 第五　純陀經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-128
+    span:
+    - body
+    - 45388
+    - 45388
+  label: 6 第六　波吒離村人經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-129
+    span:
+    - body
+    - 46970
+    - 46970
+  label: 7 第七　岐路經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-130
+    span:
+    - body
+    - 47251
+    - 47251
+  label: 8 第八　毗舍佉經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-131
+    span:
+    - body
+    - 47785
+    - 47785
+  label: 9 第九　陀驃經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-132
+    span:
+    - body
+    - 47989
+    - 47989
+  label: 10 第十　陀驃經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-133
+    span:
+    - body
+    - 48150
+    - 48150
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-134
+    span:
+    - body
+    - 48221
+    - 48221
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-135
+    span:
+    - body
+    - 48328
+    - 48328
+  label: 第四　如是語經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-136
+    span:
+    - body
+    - 48347
+    - 48347
+  label: 1 第一集　第一品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-137
+    span:
+    - body
+    - 48353
+    - 48353
+  label: 1 第一　貪經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-138
+    span:
+    - body
+    - 48489
+    - 48489
+  label: 2 第二　瞋經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-139
+    span:
+    - body
+    - 48615
+    - 48615
+  label: 3 第三　癡經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-140
+    span:
+    - body
+    - 48748
+    - 48748
+  label: 4 第四　忿經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-141
+    span:
+    - body
+    - 48881
+    - 48881
+  label: 5 第五　覆經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-142
+    span:
+    - body
+    - 49015
+    - 49015
+  label: 6 第六　慢經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-143
+    span:
+    - body
+    - 49151
+    - 49151
+  label: 7 第七　一切經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-144
+    span:
+    - body
+    - 49320
+    - 49320
+  label: 8 第八　慢經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-145
+    span:
+    - body
+    - 49483
+    - 49483
+  label: 9 第九　貪經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-146
+    span:
+    - body
+    - 49635
+    - 49635
+  label: 10 第十　瞋經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-147
+    span:
+    - body
+    - 49790
+    - 49790
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-148
+    span:
+    - body
+    - 49838
+    - 49838
+  label: 2 第一集　第二品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-149
+    span:
+    - body
+    - 49844
+    - 49844
+  label: 1 第一　痴經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-150
+    span:
+    - body
+    - 49994
+    - 49994
+  label: 2 第二　忿經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-151
+    span:
+    - body
+    - 50143
+    - 50143
+  label: 3 第三　覆經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-152
+    span:
+    - body
+    - 50292
+    - 50292
+  label: 4 第四　癡經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-153
+    span:
+    - body
+    - 50449
+    - 50449
+  label: 5 第五　愛經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-154
+    span:
+    - body
+    - 50596
+    - 50596
+  label: 6 第六　有學經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-155
+    span:
+    - body
+    - 50765
+    - 50765
+  label: 7 第七　有學經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-156
+    span:
+    - body
+    - 50935
+    - 50935
+  label: 8 第八　破經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-157
+    span:
+    - body
+    - 51161
+    - 51161
+  label: 9 第九　悅經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-158
+    span:
+    - body
+    - 51362
+    - 51362
+  label: 10 第十　人經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-159
+    span:
+    - body
+    - 51555
+    - 51555
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-160
+    span:
+    - body
+    - 51601
+    - 51601
+  label: 3 第一集　第三品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-161
+    span:
+    - body
+    - 51607
+    - 51607
+  label: 1 第一　定心經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-162
+    span:
+    - body
+    - 51786
+    - 51786
+  label: 2 第二　福經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-163
+    span:
+    - body
+    - 52115
+    - 52115
+  label: 3 第三　二種利經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-164
+    span:
+    - body
+    - 52285
+    - 52285
+  label: 4 第四　毗補羅山經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-165
+    span:
+    - body
+    - 52463
+    - 52463
+  label: 5 第五　知而故作妄語經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-166
+    span:
+    - body
+    - 52573
+    - 52573
+  label: 6 第六　布施經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-167
+    span:
+    - body
+    - 52808
+    - 52808
+  label: 7 第七　慈修經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-168
+    span:
+    - body
+    - 53104
+    - 53104
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-169
+    span:
+    - body
+    - 53170
+    - 53170
+  label: 4 第二集　第一品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-170
+    span:
+    - body
+    - 53176
+    - 53176
+  label: 1 第一　比丘經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-171
+    span:
+    - body
+    - 53373
+    - 53373
+  label: 2 第二　比丘經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-172
+    span:
+    - body
+    - 53570
+    - 53570
+  label: 3 第三　焦惱經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-173
+    span:
+    - body
+    - 53748
+    - 53748
+  label: 4 第四　無焦惱經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-174
+    span:
+    - body
+    - 53921
+    - 53921
+  label: 5 第五　戒經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-175
+    span:
+    - body
+    - 54069
+    - 54069
+  label: 6 第六　戒經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-176
+    span:
+    - body
+    - 54216
+    - 54216
+  label: 7 第七　勤經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-177
+    span:
+    - body
+    - 54385
+    - 54385
+  label: 8 第八　無詐經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-178
+    span:
+    - body
+    - 54581
+    - 54581
+  label: 9 第九　無詐經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-179
+    span:
+    - body
+    - 54762
+    - 54762
+  label: 10 第十　歡喜經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-180
+    span:
+    - body
+    - 54958
+    - 54958
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-181
+    span:
+    - body
+    - 55017
+    - 55017
+  label: 5 第二集　第二品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-182
+    span:
+    - body
+    - 55023
+    - 55023
+  label: 1 第一　尋思經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-183
+    span:
+    - body
+    - 55457
+    - 55457
+  label: 2 第二　說法經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-184
+    span:
+    - body
+    - 55632
+    - 55632
+  label: 3 第三　明經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-185
+    span:
+    - body
+    - 55784
+    - 55784
+  label: 4 第四　慧經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-186
+    span:
+    - body
+    - 55977
+    - 55977
+  label: 5 第五　法經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-187
+    span:
+    - body
+    - 56188
+    - 56188
+  label: 6 第六　無生經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-188
+    span:
+    - body
+    - 56410
+    - 56410
+  label: 7 第七　界經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-189
+    span:
+    - body
+    - 56785
+    - 56785
+  label: 8 第八　獨居經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-190
+    span:
+    - body
+    - 56974
+    - 56974
+  label: 9 第九　學處經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-191
+    span:
+    - body
+    - 57187
+    - 57187
+  label: 10 第十　覺悟經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-192
+    span:
+    - body
+    - 57424
+    - 57424
+  label: 11 第十一　無幸處經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-193
+    span:
+    - body
+    - 57655
+    - 57655
+  label: 12 第十二　見經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-194
+    span:
+    - body
+    - 58003
+    - 58003
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-195
+    span:
+    - body
+    - 58060
+    - 58060
+  label: 6 第三集　第一品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-196
+    span:
+    - body
+    - 58066
+    - 58066
+  label: 1 第一　不善報經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-197
+    span:
+    - body
+    - 58194
+    - 58194
+  label: 2 第二　界經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-198
+    span:
+    - body
+    - 58336
+    - 58336
+  label: 3 第三　受經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-199
+    span:
+    - body
+    - 58481
+    - 58481
+  label: 4 第四　受經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-200
+    span:
+    - body
+    - 58696
+    - 58696
+  label: 5 第五　求經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-201
+    span:
+    - body
+    - 58840
+    - 58840
+  label: 6 第六　求經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-202
+    span:
+    - body
+    - 58972
+    - 58972
+  label: 7 第七　漏經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-203
+    span:
+    - body
+    - 59116
+    - 59116
+  label: 8 第八　漏經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-204
+    span:
+    - body
+    - 59248
+    - 59248
+  label: 9 第九　愛經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-205
+    span:
+    - body
+    - 59403
+    - 59403
+  label: 10 第十　魔罥經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-206
+    span:
+    - body
+    - 59561
+    - 59561
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-207
+    span:
+    - body
+    - 59618
+    - 59618
+  label: 7 第三集　第二品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-208
+    span:
+    - body
+    - 59624
+    - 59624
+  label: 1 第一　福業事經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-209
+    span:
+    - body
+    - 59782
+    - 59782
+  label: 2 第二　眼經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-210
+    span:
+    - body
+    - 59923
+    - 59923
+  label: 3 第三　根經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-211
+    span:
+    - body
+    - 60109
+    - 60109
+  label: 4 第四　時經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-212
+    span:
+    - body
+    - 60292
+    - 60292
+  label: 5 第五　惡行經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-213
+    span:
+    - body
+    - 60430
+    - 60430
+  label: 6 第六　善行經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-214
+    span:
+    - body
+    - 60564
+    - 60564
+  label: 7 第七　清淨經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-215
+    span:
+    - body
+    - 60707
+    - 60707
+  label: 8 第八　寂經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-216
+    span:
+    - body
+    - 60867
+    - 60867
+  label: 9 第九　貪經之一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-217
+    span:
+    - body
+    - 61030
+    - 61030
+  label: 10 第十　貪經之二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-218
+    span:
+    - body
+    - 61237
+    - 61237
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-219
+    span:
+    - body
+    - 61288
+    - 61288
+  label: 8 第三集　第三品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-220
+    span:
+    - body
+    - 61294
+    - 61294
+  label: 1 第一　邪見經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-221
+    span:
+    - body
+    - 61557
+    - 61557
+  label: 2 第二　正見經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-222
+    span:
+    - body
+    - 61799
+    - 61799
+  label: 3 第三　出離經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-223
+    span:
+    - body
+    - 61969
+    - 61969
+  label: 4 第四　色經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-224
+    span:
+    - body
+    - 62132
+    - 62132
+  label: 5 第五　兒子經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-225
+    span:
+    - body
+    - 62656
+    - 62656
+  label: 6 第六　不降雨經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-226
+    span:
+    - body
+    - 63098
+    - 63098
+  label: 7 第七　樂經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-227
+    span:
+    - body
+    - 63429
+    - 63429
+  label: 8 第八　滅壞經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-228
+    span:
+    - body
+    - 63553
+    - 63553
+  label: 9 第九　界經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-229
+    span:
+    - body
+    - 63793
+    - 63793
+  label: 10 第十　退失經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-230
+    span:
+    - body
+    - 64100
+    - 64100
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-231
+    span:
+    - body
+    - 64150
+    - 64150
+  label: 9 第三集　第四品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-232
+    span:
+    - body
+    - 64156
+    - 64156
+  label: 1 第一　尋思經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-233
+    span:
+    - body
+    - 64333
+    - 64333
+  label: 2 第二　恭敬經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-234
+    span:
+    - body
+    - 64591
+    - 64591
+  label: 3 第三　聲經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-235
+    span:
+    - body
+    - 64908
+    - 64908
+  label: 4 第四　天經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-236
+    span:
+    - body
+    - 65294
+    - 65294
+  label: 5 第五　世間經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-237
+    span:
+    - body
+    - 65756
+    - 65756
+  label: 6 第六　不淨經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-238
+    span:
+    - body
+    - 65919
+    - 65919
+  label: 7 第七　法經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-239
+    span:
+    - body
+    - 66045
+    - 66045
+  label: 8 第八　黑暗經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-240
+    span:
+    - body
+    - 66286
+    - 66286
+  label: 9 第九　污經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-241
+    span:
+    - body
+    - 66542
+    - 66542
+  label: 10 第十　提婆達多經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-242
+    span:
+    - body
+    - 66915
+    - 66915
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-243
+    span:
+    - body
+    - 66964
+    - 66964
+  label: 10 第三集　第五品
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-244
+    span:
+    - body
+    - 66970
+    - 66970
+  label: 1 第一　勝信經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-245
+    span:
+    - body
+    - 67445
+    - 67445
+  label: 2 第二　活命經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-246
+    span:
+    - body
+    - 67724
+    - 67724
+  label: 3 第三　和合衣經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-247
+    span:
+    - body
+    - 67990
+    - 67990
+  label: 4 第四　火經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-248
+    span:
+    - body
+    - 68232
+    - 68232
+  label: 5 第五　觀察經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-249
+    span:
+    - body
+    - 68326
+    - 68326
+  label: 6 第六　生經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-250
+    span:
+    - body
+    - 68470
+    - 68470
+  label: 7 第七　欲經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-251
+    span:
+    - body
+    - 68613
+    - 68613
+  label: 8 第八　善經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-252
+    span:
+    - body
+    - 68961
+    - 68961
+  label: 9 第九　施經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-253
+    span:
+    - body
+    - 69124
+    - 69124
+  label: 10 第十　法經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-254
+    span:
+    - body
+    - 69719
+    - 69719
+  label: 總攝經目
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-255
+    span:
+    - body
+    - 69765
+    - 69765
+  label: 11 第四集
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-256
+    span:
+    - body
+    - 69768
+    - 69768
+  label: 1 第一　婆羅門經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-257
+    span:
+    - body
+    - 70028
+    - 70028
+  label: 2 第二　四事經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-258
+    span:
+    - body
+    - 70235
+    - 70235
+  label: 3 第三　知經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-259
+    span:
+    - body
+    - 70417
+    - 70417
+  label: 4 第四　沙門經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-260
+    span:
+    - body
+    - 70685
+    - 70685
+  label: 5 第五　戒經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-261
+    span:
+    - body
+    - 70925
+    - 70925
+  label: 6 第六　愛經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-262
+    span:
+    - body
+    - 71043
+    - 71043
+  label: 7 第七　梵經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-263
+    span:
+    - body
+    - 71202
+    - 71202
+  label: 8 第八　資護經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-264
+    span:
+    - body
+    - 71386
+    - 71386
+  label: 9 第九　欺誑經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-265
+    span:
+    - body
+    - 71574
+    - 71574
+  label: 10 第十　人經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-266
+    span:
+    - body
+    - 71817
+    - 71817
+  label: 11 第十一　行經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-267
+    span:
+    - body
+    - 72197
+    - 72197
+  label: 12 第十二　具足戒經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-268
+    span:
+    - body
+    - 72547
+    - 72547
+  label: 13 第十三經　世間經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0305_B_001-mulu-269
+    span:
+    - body
+    - 73021
+    - 73021
+  label: 總攝經目
+  type: mulu
+  level: 1
+hash: sha256:86f3c75d029fc7c27403add585a8eaae2781a79c3980772744072746afca3332
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
