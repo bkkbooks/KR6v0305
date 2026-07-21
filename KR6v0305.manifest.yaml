@@ -18,17 +18,17 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0305_000.yaml, hash: 'sha256:4cc31e62e2c96d3a62e7b0012aa32d8342e06ed1936fa2889bb9d60220da8256'}
+  - {seq: 0, filename: KR6v0305_000.yaml, hash: 'sha256:37d298287035d08b2706343f285823fa7c5ab46e3d9e9b7ca49e650f5f842aec'}
   - {seq: 1, filename: KR6v0305_001.yaml, hash: 'sha256:cc6cdaa7de78bf2a2e3f7ad6ab6533ba32aa0ee183002c447441cfbbec08080d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0305_000.markers.yaml, hash: 'sha256:5c82537bfa03fb19168fbc2c102b3431364ba156c2235f4ee668c186206aa1b5'}
+  - {seq: 0, role: markers, filename: assets/KR6v0305_000.markers.yaml, hash: 'sha256:8a589e2d4236041cb731e73886731ee4ec0b53f7ea60a08a05a2513fc72d3755'}
   - {seq: 1, role: markers, filename: assets/KR6v0305_001.markers.yaml, hash: 'sha256:f4b58dcddf494c2979ea5219ef03e00a3eee53cc0b5d96286a6041c88cf0f24e'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0305_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 目錄
@@ -2734,7 +2734,7 @@ table_of_contents:
   label: 總攝經目
   type: mulu
   level: 1
-hash: sha256:c510edc528543ab590c119a3729ab6ce9567dda67f9e26e4e3fc671547baba6e
+hash: sha256:f85148574524bbad191f76dfa39402abea5d5e16b283a756bcd8313b57c9cb58
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
